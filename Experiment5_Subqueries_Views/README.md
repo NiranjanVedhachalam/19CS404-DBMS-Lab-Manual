@@ -391,6 +391,11 @@ WHERE
 
 <img width="1310" height="622" alt="image" src="https://github.com/user-attachments/assets/b0dabbe3-3716-414b-844d-5137c5fa69e1" />
 
+## COMPLETION STATUS
+
+<img width="998" height="231" alt="image" src="https://github.com/user-attachments/assets/fd283ea9-00da-4da1-acd2-e3c8c5b617a8" />
+
+
 
 
 ## RESULT
